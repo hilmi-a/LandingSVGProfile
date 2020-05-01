@@ -138,3 +138,15 @@ span {
 .user {
     height: 450px;
 }
+
+footer {
+    position: relative;
+    bottom: 1.5rem;
+    padding: 0 auto;
+    text-align: center;
+    color: #fff;
+}
+
+footer p{
+    
+}
