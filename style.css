@@ -15,7 +15,6 @@
 }
 
 
-
 .navbar {
     width: 85%;
     margin: auto;
@@ -140,13 +139,6 @@ svg {
 }
 
 footer {
-    /* position: relative;
-    bottom: 1.5rem;
-    padding: 0 auto;
-    
-    
-    
-    overflow: hidden; */
     position: absolute;
     width: 150px;
     bottom: 0px;
