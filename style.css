@@ -148,10 +148,10 @@ footer {
     
     overflow: hidden; */
     position: absolute;
-    width: 100px;
+    width: 150px;
     bottom: 0px;
     left: 50%;
-    margin-left: -50px;
+    margin-left: -75px;
     color: #fff;
     font-size: 0.75rem;
     text-align: center;
