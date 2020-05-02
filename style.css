@@ -70,7 +70,7 @@ svg {
     transition: 1s;
 }
 
-span {
+.dots {
     position: absolute;
     height: 10px;
     width: 10px;
@@ -140,10 +140,19 @@ span {
 }
 
 footer {
-    position: relative;
+    /* position: relative;
     bottom: 1.5rem;
     padding: 0 auto;
-    text-align: center;
+    
+    
+    
+    overflow: hidden; */
+    position: absolute;
+    width: 100px;
+    bottom: 0px;
+    left: 50%;
+    margin-left: -50px;
     color: #fff;
     font-size: 0.75rem;
+    text-align: center;
 }
